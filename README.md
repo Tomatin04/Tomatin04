@@ -33,17 +33,17 @@ Aqui estão algumas das tecnologias que utilizo em meus projetos:
 Aqui estão alguns dos meus projetos mais recentes. Cada um reflete as minhas habilidades e áreas de interesse:
 
 ### 1. Gestão de contratos
-*Construi um sistema de gestão de contratos, que está sendo utilizado no meu local de trabalho. O programa foi cosntruido de forma que os usuários cadastrasem e consultassem todos os contratos da empresa. A aplicação comtém varias funcionalidades como autenticação com LPDA, token JWT, serviço de e-mail, automações, envio e consulta de arquivos, etc. O projeto foi bastante trabalhoso e utilizou diversas ferramentas, mas foi o mais recompensador de todos*  
-- **Tecnologias usadas**: PHP, Spring Boot, Docker, VM, SQL Server, Redis, etc.
+*Construí um sistema de gestão de contratos, que está sendo utilizado no meu local de trabalho. O programa foi construído de forma que os usuários cadastrassem e consultassem todos os contratos da empresa. A aplicação contém várias funcionalidades como autenticação com LPDA, token JWT, serviço de e-mail, automações, envio e consulta de arquivos etc. O projeto foi bastante trabalhoso e utilizou diversas ferramentas, mas foi o mais recompensador de todos*  
+- **Tecnologias usadas**: PHP, Spring Boot, Docker, VM, SQL Server, Redis etc.
 - **Funcionalidades**: Sistema de gerenciamento de contratos.
 
 ### 2. [Aplicação de blog](https://github.com/Tomatin04/Projeto02)  
-*Na faculdade, criei um site de noticia/blog que era destianado a concientização de problemas ambientais. Esse projeto foi um grande desafio, pois foi uma junção das minhas habilidades como desenvolvedor back-end e front-end ao mesmo tempo. No final, entreguei um projeto que atendeu todos os requisitos e elogios dos avaliadores*  
+*Na faculdade, criei um site de notícia/blog que era destinado a conscientização de problemas ambientais. Esse projeto foi um grande desafio, pois foi uma junção das minhas habilidades como desenvolvedor back-end e front-end ao mesmo tempo. No final, entreguei um projeto que atendeu todos os requisitos e recebeu elogios dos avaliadores*  
 - **Tecnologias usadas**: Java, Spring Boot, MySQL, PHP 
-- **Funcionalidades**: API RESTful que possuia sistema de autenticação, usuários, notícias e outras funcionalidades, junto a uma interface Web cosntruida com PHP
+- **Funcionalidades**: API RESTful que possui sistema de autenticação, usuários, notícias e outras funcionalidades, junto a uma interface Web construída com PHP
 
 ### 3. [Projeto de Lojinha](https://github.com/GOA03/DevShop)  
-*Desenvolvi junto aos meus colegas de faculdade, um app de loja. Esse App foi muito desafiador, pois foi o meu primeiro projeto utilizando Flutter, mas o resultado foi exepcional*  
+*Desenvolvi junto aos meus colegas de faculdade, um app de loja. Esse App foi muito desafiador, pois foi o meu primeiro projeto utilizando Flutter, mas o resultado foi excepcional*  
 - **Tecnologias usadas**: Flutter
 - **Funcionalidades**: Aplicativo de loja para Android.
 
@@ -51,7 +51,7 @@ Aqui estão alguns dos meus projetos mais recentes. Cada um reflete as minhas ha
 
 Sempre busco expandir meus conhecimentos em novas tecnologias e aprimorar as que já utilizo. Atualmente, estou focado em aprender:
 
-- **Spring Boot** – Aprimorando os conhecimentos e aplicado boas práticas.
+- **Spring Boot** – Aprimorando os conhecimentos e aplicar boas práticas.
 - **Flutter** – Aplicando arquiteturas mais robustas em sistemas mais complexos.
 - **Docker** – Contêineres para facilitar o desenvolvimento e a implantação de aplicações.
 - **Microservices** – Arquitetura de microserviços para criar aplicações escaláveis e resilientes.
